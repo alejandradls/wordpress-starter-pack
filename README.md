@@ -43,7 +43,7 @@ Tienes dos opciones, dependiendo de tu experiencia técnica:
 2. Ve al panel del plugin.
 
 3. Sube el archivo:  
-   **starter-stack-alejandra.txt**
+   **wordpress-starter-pack.txt**
 
 4. Da clic en **Install Now**.
 
