@@ -1,10 +1,9 @@
-autoptimize
-wp-smushit
-svg-support
-contact-form-7
-honeypot-for-contact-form-7
-updraftplus
-wp-optimize
-better-wp-security
-litespeed-cache
-wordpress-seo
+Anti-Spam by CleanTalk
+Autoptimize
+Buttonizer
+Contact Form 7
+Safe SVG
+UpdraftPlus
+WP Fastest Cache
+Yoast SEO
+Really Simple Security
