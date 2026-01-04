@@ -15,16 +15,15 @@ Este archivo contiene los slugs oficiales de los plugins, listos para usar en in
 
 ## 🔧 Plugins incluidos
 
-- Autoptimize  
-- Smush  
-- SVG Support  
-- Contact Form 7  
-- Honeypot for Contact Form 7  
-- UpdraftPlus  
-- WP-Optimize  
-- iThemes Security  
-- LiteSpeed Cache  
-- Yoast SEO  
+- Anti-Spam by CleanTalk
+- Autoptimize
+- Buttonizer
+- Contact Form 7
+- Safe SVG
+- UpdraftPlus
+- WP Fastest Cache
+- Yoast SEO
+- Really Simple Security
 
 ---
 
